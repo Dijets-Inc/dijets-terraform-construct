@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="resources/DijetsNode.png?raw=true">
+  <img src="resources/dijets-terraform-construct.png?raw=true">
 </div>
 
 ----
