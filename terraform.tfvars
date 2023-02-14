@@ -1,0 +1,12 @@
+network="dijets"
+region="us-east1"
+zone="us-east1-b"
+project="my-dijets-project"
+ip_cidr_range="10.142.0.0/24"
+node_subnet_name="node-subnetwork"
+bucket_name="my-dijets-project"
+node_name_prefix="node"
+p2p_port="9651"
+machine_type="e2-standard-8"
+base_os_image="ubuntu-2004-focal-v20210825"
+total_instances=1 # increase this number to the number of nodes you wish to have
