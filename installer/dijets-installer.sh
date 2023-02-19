@@ -1,5 +1,5 @@
 #Author: Saleem Farid
-#Organisation: Rogue Trust C/O Dijets Inc.
+#Organisation: Dijets Inc.
 
 #!/bin/bash
 # Pulls latest pre-built node binary from GitHub and installs it as a systemd service.
